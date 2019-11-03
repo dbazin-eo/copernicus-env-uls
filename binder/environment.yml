@@ -13,7 +13,6 @@ dependencies:
   - bokeh
   - cartopy
   - dask-core
-  - datatable
   - folium
   - ftputil
   - geocoder
@@ -22,7 +21,6 @@ dependencies:
   - ipyleaflet
   - ipywidgets
   - iris
-  - jupyter-datatables
   - libnetcdf>=4.6.1
   - matplotlib
   - ncftp
