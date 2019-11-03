@@ -5,28 +5,50 @@ channels:
   - conda-forge/label/gcc7
   - flynn
   - bioconda
+  - pyviz
+  - r
 dependencies:
   - python
+  - basemap
+  - basemap-data-hires
+  - beakerx
+  - bokeh
+  - cartopy
+  - dask-core
+  - datatable
+  - folium
   - ftputil
-  - thriftpy
-  - requests 
-  - ncftp
-  - nco>=4.7.7
-  - netcdf-fortran>=4.4.4
-  - netcdf4>=1.4.2
+  - geocoder
+  - holoviz
+  - imageio
+  - ipyleaflet
+  - iris
+  - jupyter-datatables
   - libnetcdf>=4.6.1
   - matplotlib
-  - cartopy
-  - basemap
-  - scipy
-  - xarray
-  - pandas
-  - numpy
+  - ncftp
+  - nco>=4.7.7
+  - nc-time-axis
+  - netcdf4>=1.4.2
+  - netcdf-fortran>=4.4.4
   - numba
-  - imageio
-  - basemap-data-hires
-  - seaborn
+  - numpy
+  - owslib
+  - pandas
+  - pathlib2
   - pip
+  - pivottablejs
+  - qgrid
+  - requests 
+  - rpy2
+  - scikit-image
+  - scipy
+  - seaborn
+  - thriftpy
+  - xarray
+  - xarray-extras
+  - xrviz
   - pip:
     - motuclient>=1.8.1
     - cdo>=1.4.0
+    - jupyter-contrib-nbextensions
