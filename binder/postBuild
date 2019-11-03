@@ -10,7 +10,7 @@ jupyter nbextension enable toc2/main
 jupyter nbextension enable varInspector/main
 jupyter nbextension enable snippets_menu/main
 jupyter nbextension enable snippets/main
-jupyter nbextension python-markdown/main, hide_header/main, hide_input_all/main
+jupyter nbextension enable python-markdown/main, hide_header/main, hide_input_all/main
 
 # wget -q -O training-balticSea.zip https://atlas.mercator-ocean.fr/s/57W5NPtTzPxdRwg/download
 # unzip training-balticSea.zip
