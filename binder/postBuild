@@ -14,8 +14,7 @@ jupyter nbextension enable python-markdown/main
 jupyter nbextension enable hide_header/main
 jupyter nbextension enable hide_input_all/main
 jupyter nbextension enable splitcell/splitcell
-jupyter nbextension enable comment_uncomment/main
-jupyter nbextension enable conde_font_size/conde_font_size
+jupyter nbextension enable comment-uncomment/main
 
 # wget -q -O training-balticSea.zip https://atlas.mercator-ocean.fr/s/57W5NPtTzPxdRwg/download
 # unzip training-balticSea.zip
