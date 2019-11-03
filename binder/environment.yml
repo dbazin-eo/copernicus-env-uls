@@ -15,7 +15,7 @@ dependencies:
   - bokeh
   - cartopy
   - dask-core
-  - datatable
+  - datatables
   - folium
   - ftputil
   - geocoder
@@ -23,7 +23,6 @@ dependencies:
   - imageio
   - ipyleaflet
   - iris
-  - jupyter-datatables
   - libnetcdf>=4.6.1
   - matplotlib
   - ncftp
@@ -49,6 +48,7 @@ dependencies:
   - xarray-extras
   - xrviz
   - pip:
+    - jupyter-datatables
     - motuclient>=1.8.1
     - cdo>=1.4.0
     - jupyter-contrib-nbextensions
