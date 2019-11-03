@@ -6,7 +6,6 @@ channels:
   - flynn
   - bioconda
   - pyviz
-  - r
 dependencies:
   - python
   - basemap
@@ -39,7 +38,6 @@ dependencies:
   - pivottablejs
   - qgrid
   - requests 
-  - rpy2
   - scikit-image
   - scipy
   - seaborn
