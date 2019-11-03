@@ -16,6 +16,8 @@ dependencies:
   - folium
   - ftputil
   - geocoder
+  - geoviews
+  - geoviews-core
   - holoviz
   - imageio
   - ipyleaflet
