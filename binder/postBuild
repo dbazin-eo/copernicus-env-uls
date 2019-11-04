@@ -16,6 +16,6 @@ jupyter nbextension enable hide_input_all/main
 jupyter nbextension enable splitcell/splitcell
 jupyter nbextension enable comment-uncomment/main
 
-# wget -q -O training-balticSea.zip https://atlas.mercator-ocean.fr/s/57W5NPtTzPxdRwg/download
-# unzip training-balticSea.zip
-# rm -rf training-balticSea.zip
+wget -q -O training-balticSea.zip https://atlas.mercator-ocean.fr/s/F7fSWH5RnfR22fL/download
+unzip training-balticSea.zip
+rm -rf training-balticSea.zip
