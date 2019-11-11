@@ -1,6 +1,4 @@
 #!/bin/bash
-jupyter contrib nbextension install --user
-jupyter nbextension enable --py widgetsnbextension
 
 wget -q -O training-balticSea.zip https://atlas.mercator-ocean.fr/s/fxYD6Tdro7Qr6tj/download
 unzip training-balticSea.zip
