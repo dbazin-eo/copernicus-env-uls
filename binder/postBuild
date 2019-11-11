@@ -1,20 +1,5 @@
 #!/bin/bash
 jupyter contrib nbextension install --user
-jupyter nbextension install --sys-prefix --py jupyter_require
-jupyter nbextension enable jupyter-require/extension
-jupyter nbextension enable --py widgetsnbextension
-jupyter nbextension enable rubberband/main
-jupyter nbextension enable exercise/main
-jupyter nbextension enable exercise2/main
-jupyter nbextension enable help_panel/help_panel
-jupyter nbextension enable toc2/main
-jupyter nbextension enable varInspector/main
-jupyter nbextension enable snippets_menu/main
-jupyter nbextension enable python-markdown/main
-jupyter nbextension enable hide_header/main
-jupyter nbextension enable hide_input_all/main
-jupyter nbextension enable splitcell/splitcell
-jupyter nbextension enable comment-uncomment/main
 
 wget -q -O training-balticSea.zip https://atlas.mercator-ocean.fr/s/F7fSWH5RnfR22fL/download
 unzip training-balticSea.zip
