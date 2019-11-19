@@ -1,5 +1,5 @@
 #!/bin/bash
 
-wget -q -O training-balticSea.zip https://atlas.mercator-ocean.fr/s/fxYD6Tdro7Qr6tj/download
-unzip training-balticSea.zip
-rm -rf training-balticSea.zip
+wget -q -O training-arcticOcean.zip https://atlas.mercator-ocean.fr/s/FGSL8PTbtEGfKjt/download
+unzip training-arcticOcean.zip
+rm -rf training-arcticOcean.zip
