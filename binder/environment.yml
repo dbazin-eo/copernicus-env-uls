@@ -24,4 +24,3 @@ dependencies:
   - xarray
   - pip:
     - motuclient>=1.8.1
-    - jupyter-contrib-nbextensions
