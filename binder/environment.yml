@@ -10,8 +10,10 @@ dependencies:
   - basemap
   - basemap-data-hires
   - cartopy
+  - dask-core
   - folium
   - ftputil
+  - gsw
   - libnetcdf>=4.6.1
   - matplotlib
   - netcdf4>=1.4.2
@@ -22,6 +24,7 @@ dependencies:
   - scipy
   - seaborn
   - xarray
+  - windrose
   - pip:
     - motuclient>=1.8.1
     - jupyter-contrib-nbextensions
