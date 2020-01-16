@@ -1,5 +1,5 @@
 #!/bin/bash
 
-wget -q -O training-medSea.zip https://atlas.mercator-ocean.fr/s/QTyawF3L3CxX96L/download
+wget -q -O training-medSea.zip https://atlas.mercator-ocean.fr/s/LPib5JgKY8RexNC/download
 unzip training-medSea.zip
 rm -rf training-medSea.zip
